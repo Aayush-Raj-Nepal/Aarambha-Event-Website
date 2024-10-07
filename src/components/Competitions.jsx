@@ -11,7 +11,7 @@ export default function Competitions() {
             Competitions
           </h2>
           <p className="mt-6 text-lg leading-8 text-gray-300">
-            Unleash your talents across Aarambha's thrilling 360° lineup of
+            Unleash your talents across Aarambha&apos; thrilling 360° lineup of
             competitions!
           </p>
         </div>
