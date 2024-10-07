@@ -13,7 +13,7 @@
     "day1": true,
     "day2": false,
     "winner_prizes": ["Rs30000", "Rs20000", "Rs10000"],
-    "shortDesc": "Develop innovative solutions in a 30-hour hackathon.",
+    "shortDesc": "Develop innovative solutions in a 30 hours hackathon.",
     "imgUrl": "/images/Events/protobytes_hackathon.png",
     "onClickPath": "/competitions/protobytesHackathon"
   },
