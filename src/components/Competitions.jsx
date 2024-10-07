@@ -1,6 +1,28 @@
 'use client'
 import React from 'react'
 import posts from '../content/Competitions.json'
+import Link from 'next/link'
+import Carousel from 'react-multi-carousel'
+import 'react-multi-carousel/lib/styles.css'
+
+const responsive = {
+  superLargeDesktop: {
+    breakpoint: { max: 4000, min: 3000 },
+    items: 4,
+  },
+  desktop: {
+    breakpoint: { max: 3000, min: 1024 },
+    items: 3,
+  },
+  tablet: {
+    breakpoint: { max: 1024, min: 464 },
+    items: 2,
+  },
+  mobile: {
+    breakpoint: { max: 464, min: 0 },
+    items: 1,
+  },
+}
 
 export default function Competitions() {
   return (
@@ -15,27 +37,37 @@ export default function Competitions() {
             competitions!
           </p>
         </div>
-        <ul
-          role="list"
-          className="mx-auto mt-20 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-14 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 xl:grid-cols-4"
+        <Carousel
+          responsive={responsive}
+          autoPlay={true}
+          autoPlaySpeed={1500}
+          infinite={true}
+          keyBoardControl={true}
+          showDots={false}
         >
           {posts.map((post) => (
-            <li key={post.title}>
-              <img
-                alt=""
-                src={post.imgUrl}
-                className="aspect-[14/13] w-full rounded-2xl object-cover"
-              />
-              <h3 className="mt-6 text-lg font-semibold leading-8 tracking-tight text-white">
-                {post.title}
-              </h3>
-              <p className="text-base leading-7 text-gray-300">
-                {post.subtitle}
-              </p>
-              <p className="text-sm leading-6 text-gray-500">{post.date}</p>
-            </li>
+            <Link
+              key={post.title}
+              className="carousel-item cursor-pointer" // Add the custom class here
+              href={`/competitions/${post.slug}`}
+            >
+              <div className="competitionSliderItem flex flex-col items-center p-4 transition-all duration-300 hover:p-2">
+                <img
+                  alt=""
+                  src={post.imgUrl}
+                  className="aspect-[14/14] w-full object-cover"
+                />
+                <h3 className="mt-6 text-lg font-semibold leading-8 tracking-tight text-white">
+                  {post.title}
+                </h3>
+                <p className="text-base leading-7 text-gray-300">
+                  {post.subtitle}
+                </p>
+                <p className="text-sm leading-6 text-gray-500">{post.date}</p>
+              </div>
+            </Link>
           ))}
-        </ul>
+        </Carousel>
       </div>
     </div>
   )

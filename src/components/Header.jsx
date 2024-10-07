@@ -5,15 +5,10 @@ import { Dialog, DialogPanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
-  { name: 'Events', href: '#events' },
+  { name: 'Events', href: '/#events' },
   { name: 'Competitions', href: '#competitions' },
   { name: 'Faqs', href: '#faqs' },
   { name: 'ContactUs', href: '#contactus' },
-  {
-    name: 'Downloads',
-    href: 'https://drive.google.com/drive/folders/12nDLQMNtEUB9BEqVL54mM683pbjQGwoF?usp=sharing',
-    newTab: true,
-  },
 ]
 
 export function Header() {
@@ -27,7 +22,7 @@ export function Header() {
           className="flex items-center justify-between p-6 lg:px-8"
         >
           <div className="flex lg:flex-1">
-            <a href="#" className="-m-1.5 p-1.5">
+            <a href="/#" className="-m-1.5 p-1.5">
               <span className="sr-only">Aarambha</span>
               <img alt="" src="/images/logo_full.png" className="h-16 w-auto" />
             </a>
@@ -55,9 +50,27 @@ export function Header() {
             ))}
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-            {/* <a href="#" className="text-sm font-semibold leading-6 text-white">
-              Log in <span aria-hidden="true">&rarr;</span>
-            </a> */}
+            <a
+              href=" https://drive.google.com/drive/folders/12nDLQMNtEUB9BEqVL54mM683pbjQGwoF?usp=sharing"
+              className="flex text-sm font-semibold leading-6 text-white"
+              target="_blank"
+            >
+              Downloads{' '}
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                strokeWidth={1}
+                stroke="currentColor"
+                className="size-3"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"
+                />
+              </svg>
+            </a>
           </div>
         </nav>
         <Dialog

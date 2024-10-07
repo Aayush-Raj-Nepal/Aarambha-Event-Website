@@ -1,13 +1,5 @@
 'use client'
 
-import {
-  ChatBubbleBottomCenterTextIcon,
-  ChatBubbleLeftRightIcon,
-  InboxIcon,
-  QuestionMarkCircleIcon,
-} from '@heroicons/react/24/outline'
-import Image from 'next/image'
-
 export function Hero() {
   return (
     <div className="relative isolate overflow-hidden pt-14">
