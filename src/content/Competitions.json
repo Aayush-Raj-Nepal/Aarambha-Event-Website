@@ -1,0 +1,244 @@
+[
+  {
+    "id": 2,
+    "title": "Hackathon",
+    "subtitle": "24-hour Coding Challenge",
+    "description": "A 24-hour marathon coding event where teams work on solving real-world problems using innovative technology solutions.",
+    "date": "2024-11-22",
+    "time": "8:00 AM",
+    "venue": "IT Lab",
+    "imgUrl": "/images/Competitions/hackathon.png",
+
+    "coordinators": [
+      {
+        "name": "Alice Brown",
+        "contact": "+123456123"
+      },
+      {
+        "name": "Bob Green",
+        "contact": "+987656789"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 100,000",
+      "second_place": "NPR 50,000",
+      "third_place": "NPR 25,000"
+    }
+  },
+  {
+    "id": 1,
+    "title": "Robo Sumo",
+    "subtitle": "Battle of Autonomous Robots",
+    "description": "A thrilling competition where autonomous robots face off in a sumo-style battle to push each other out of the ring.",
+    "date": "2024-11-22",
+    "time": "10:00 AM",
+    "venue": "Main Arena",
+    "imgUrl": "/images/Competitions/Sumo.png",
+    "registration_deadline": "2024-11-20",
+    "coordinators": [
+      {
+        "name": "John Doe",
+        "contact": "+123456789"
+      },
+      {
+        "name": "Jane Smith",
+        "contact": "+987654321"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 50,000",
+      "second_place": "NPR 30,000",
+      "third_place": "NPR 15,000"
+    }
+  },
+
+  {
+    "id": 4,
+    "title": "Autocad Challenge",
+    "subtitle": "Master the Art of Design",
+    "description": "A competition to test participants' skills in AutoCAD, focusing on design and precision in engineering.",
+    "date": "2024-11-23",
+    "time": "3:00 PM",
+    "venue": "Design Lab",
+    "imgUrl": "/images/Competitions/AutoCad Pro.png",
+
+    "registration_deadline": "2024-11-21",
+    "coordinators": [
+      {
+        "name": "Eve Blue",
+        "contact": "+112233445"
+      },
+      {
+        "name": "Frank Yellow",
+        "contact": "+998877665"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 40,000",
+      "second_place": "NPR 20,000",
+      "third_place": "NPR 10,000"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Circuit Challenge",
+    "subtitle": "Master the Art Circuit of Design",
+    "description": "A competition to test participants' skills in AutoCAD, focusing on design and precision in engineering.",
+    "date": "2024-11-23",
+    "time": "3:00 PM",
+    "venue": "Design Lab",
+    "imgUrl": "/images/Competitions/circuit.png",
+
+    "registration_deadline": "2024-11-21",
+    "coordinators": [
+      {
+        "name": "Eve Blue",
+        "contact": "+112233445"
+      },
+      {
+        "name": "Frank Yellow",
+        "contact": "+998877665"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 40,000",
+      "second_place": "NPR 20,000",
+      "third_place": "NPR 10,000"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Popsicle Bridge",
+    "subtitle": "Master the Art of Design",
+    "description": "A competition to test participants' skills in AutoCAD, focusing on design and precision in engineering.",
+    "date": "2024-11-23",
+    "time": "3:00 PM",
+    "venue": "Design Lab",
+    "imgUrl": "/images/Competitions/popsiclebridge.png",
+
+    "registration_deadline": "2024-11-21",
+    "coordinators": [
+      {
+        "name": "Eve Blue",
+        "contact": "+112233445"
+      },
+      {
+        "name": "Frank Yellow",
+        "contact": "+998877665"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 40,000",
+      "second_place": "NPR 20,000",
+      "third_place": "NPR 10,000"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Project Demonstration",
+    "subtitle": "Bring your innovative projects",
+    "description": "A competition to test participants' skills in AutoCAD, focusing on design and precision in engineering.",
+    "date": "2024-11-23",
+    "time": "3:00 PM",
+    "venue": "Design Lab",
+    "imgUrl": "/images/Competitions/AutoCad Pro.png",
+
+    "registration_deadline": "2024-11-21",
+    "coordinators": [
+      {
+        "name": "Eve Blue",
+        "contact": "+112233445"
+      },
+      {
+        "name": "Frank Yellow",
+        "contact": "+998877665"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 40,000",
+      "second_place": "NPR 20,000",
+      "third_place": "NPR 10,000"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Robo Pop",
+    "subtitle": "Master the Art of Design",
+    "description": "A competition to test participants' skills in AutoCAD, focusing on design and precision in engineering.",
+    "date": "2024-11-23",
+    "time": "3:00 PM",
+    "venue": "Design Lab",
+    "imgUrl": "/images/Competitions/robopop.png",
+
+    "registration_deadline": "2024-11-21",
+    "coordinators": [
+      {
+        "name": "Eve Blue",
+        "contact": "+112233445"
+      },
+      {
+        "name": "Frank Yellow",
+        "contact": "+998877665"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 40,000",
+      "second_place": "NPR 20,000",
+      "third_place": "NPR 10,000"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Robo Race",
+    "subtitle": "Master the Art of Design",
+    "description": "A competition to test participants' skills in AutoCAD, focusing on design and precision in engineering.",
+    "date": "2024-11-23",
+    "time": "3:00 PM",
+    "venue": "Design Lab",
+    "imgUrl": "/images/Competitions/roborace.png",
+
+    "registration_deadline": "2024-11-21",
+    "coordinators": [
+      {
+        "name": "Eve Blue",
+        "contact": "+112233445"
+      },
+      {
+        "name": "Frank Yellow",
+        "contact": "+998877665"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 40,000",
+      "second_place": "NPR 20,000",
+      "third_place": "NPR 10,000"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Shake Table",
+    "subtitle": "Master the Art of Design",
+    "description": "A competition to test participants' skills in AutoCAD, focusing on design and precision in engineering.",
+    "date": "2024-11-23",
+    "time": "3:00 PM",
+    "venue": "Design Lab",
+    "imgUrl": "/images/Competitions/shakeTable.png",
+
+    "registration_deadline": "2024-11-21",
+    "coordinators": [
+      {
+        "name": "Eve Blue",
+        "contact": "+112233445"
+      },
+      {
+        "name": "Frank Yellow",
+        "contact": "+998877665"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 40,000",
+      "second_place": "NPR 20,000",
+      "third_place": "NPR 10,000"
+    }
+  }
+]

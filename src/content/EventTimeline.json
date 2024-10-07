@@ -1,0 +1,103 @@
+[
+  {
+    "event_name": "Project demonstration",
+    "day1": true,
+    "day2": true,
+    "winner_prizes": ["Rs20000", "Rs15000", "Rs10000"],
+    "shortDesc": "Showcase innovative projects and solutions from various fields of engineering and IT.",
+    "imgUrl": "/images/Events/project_demo.png",
+    "onClickPath": "/competitions/projectDemo"
+  },
+  {
+    "event_name": "Protobytes Hackathon Finale",
+    "day1": true,
+    "day2": false,
+    "winner_prizes": ["Rs30000", "Rs20000", "Rs10000"],
+    "shortDesc": "Develop innovative solutions in a 30-hour hackathon.",
+    "imgUrl": "/images/Events/protobytes_hackathon.png",
+    "onClickPath": "/competitions/protobytesHackathon"
+  },
+  {
+    "event_name": "Popsicle Bridge Competition",
+    "day1": true,
+    "day2": false,
+    "winner_prizes": ["Rs10000", "Rs7000", "Rs5000"],
+    "shortDesc": "Design and build the strongest bridge using only popsicle sticks and glue.",
+    "imgUrl": "/images/Events/popsicle_bridge.png",
+    "onClickPath": "/competitions/popsicleBridge"
+  },
+  {
+    "event_name": "AutoCAD Competition",
+    "day1": true,
+    "day2": false,
+    "winner_prizes": ["Rs8000", "Rs5000", "Rs3000"],
+    "shortDesc": "Showcase your CAD design skills by recreating building plans with precision.",
+    "imgUrl": "/images/Events/autocad_competition.png",
+    "onClickPath": "/competitions/autoCad"
+  },
+
+  {
+    "event_name": "Technorion Competitions",
+    "day1": true,
+    "day2": true,
+    "winner_prizes": ["Rs12000", "Rs8000", "Rs5000"],
+    "shortDesc": "Compete in events like Cozmo Clench, MeshMerize, and CodeCode to show your technical skills.",
+    "imgUrl": "/images/Events/technorion.png",
+    "onClickPath": "/competitions/technorion"
+  },
+  {
+    "event_name": "Shake Table Competition",
+    "day1": false,
+    "day2": true,
+    "winner_prizes": ["Rs15000", "Rs10000", "Rs7000"],
+    "shortDesc": "Test the seismic performance of your structure under simulated earthquake conditions.",
+    "imgUrl": "/images/Events/shake_table.png",
+    "onClickPath": "/competitions/shakeTable"
+  },
+  {
+    "event_name": "Circuit design challenge",
+    "day1": true,
+    "day2": false,
+    "winner_prizes": ["Rs10000", "Rs7000", "Rs5000"],
+    "shortDesc": "Design and simulate the most efficient circuits to solve real-world problems.",
+    "imgUrl": "/images/Events/circuit_design.png",
+    "onClickPath": "/competitions/circuitDesign"
+  },
+  {
+    "event_name": "Robo Pop",
+    "day1": true,
+    "day2": false,
+    "winner_prizes": ["Rs12000", "Rs6000", "Rs4000"],
+    "shortDesc": "Control your robot to pop the opponent’s balloons while protecting your own.",
+    "imgUrl": "/images/Events/robo_pop.png",
+    "onClickPath": "/competitions/roboPop"
+  },
+  {
+    "event_name": "Robo Race",
+    "day1": true,
+    "day2": true,
+    "winner_prizes": ["Rs10000", "Rs7000", "Rs5000"],
+    "shortDesc": "Build and race robots through an obstacle-filled track in record time.",
+    "imgUrl": "/images/Events/robo_race.png",
+    "onClickPath": "/competitions/roboRace"
+  },
+
+  {
+    "event_name": "Robo Sumo",
+    "day1": false,
+    "day2": true,
+    "winner_prizes": ["Rs12000", "Rs8000", "Rs6000"],
+    "shortDesc": "Pit your autonomous robots against opponents in a battle to push them out of the ring.",
+    "imgUrl": "/images/Events/robo_sumo.png",
+    "onClickPath": "/competitions/roboSumo"
+  },
+  {
+    "event_name": "Musical Night",
+    "day1": false,
+    "day2": true,
+    "winner_prizes": [],
+    "shortDesc": "End the event with a relaxing and entertaining night of music and celebration.",
+    "imgUrl": "/images/Events/musical_night.png",
+    "onClickPath": "/events/musicalNight"
+  }
+]
