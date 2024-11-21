@@ -60,5 +60,26 @@
     "prizes": {
       "first_place": "Certificate from IIT Bombay"
     }
+  },
+  {
+    "title": "Cozmo Clench",
+    "slug": "cozmo-clench",
+    "subtitle": "Build a Gripper Bot and Dominate the Challenges",
+    "description": "Get ready for Cozmo Clench! Build a gripper bot and manually control it to overcome challenges. The goal? Complete the run with maximum points in the minimum time! ⚙️💥\n\nThis is your Zonal Qualifier for Techfest 2024 at IIT Bombay, one of Asia’s largest tech festivals and an international stage for innovators like you! 🌍🤖 Don’t miss this chance to compete with the best from around the world! 🏆🌟",
+    "date": "2024-11-22",
+    "time": "9:00 AM",
+    "venue": "Advanced College of Engineering and Management, Kalanki",
+    "imgUrl": "/images/Technorian/cozmoclench.jpg",
+    "link": "http://bit.ly/4hRkBTr",
+    "coordinators": [
+      {
+        "name": "Aviskar Poudel",
+        "contact": "9807947974"
+      }
+    ],
+    "prizes": {
+      "first_place": "Qualification for IIT Bombay",
+      "runner_up": "Qualification for IIT Bombay"
+    }
   }
 ]
