@@ -8,7 +8,6 @@
     "time": "9:00 AM",
     "venue": "Advanced College of Engineering and Management, Kalanki",
     "imgUrl": "/images/Technorian/meshmerize.jpg",
-    "registration_deadline": "2024-11-20",
     "link": "http://bit.ly/4hRkBTr",
     "coordinators": [
       {
@@ -18,7 +17,7 @@
     ],
     "prizes": {
       "first_place": "Qualification for IIT Bombay",
-      "runner_up": "Participation Certificates"
+      "runner_up": "Qualification for IIT Bombay"
     }
   },
   {
@@ -30,7 +29,6 @@
     "time": "9:00 AM",
     "venue": "Advanced College of Engineering and Management, Kalanki",
     "imgUrl": "/images/Technorian/codecode.jpg",
-    "registration_deadline": "2024-11-20",
     "link": "http://bit.ly/4hRkBTr",
     "coordinators": [
       {
@@ -40,7 +38,7 @@
     ],
     "prizes": {
       "first_place": "Qualification for IIT Bombay",
-      "runner_up": "Participation Certificates"
+      "runner_up": "Qualification for IIT Bombay"
     }
   },
   {
@@ -52,7 +50,6 @@
     "time": "9:00 AM",
     "venue": "Advanced College of Engineering and Management, Kalanki",
     "imgUrl": "/images/Technorian/techfestolympiad.jpg",
-    "registration_deadline": "2024-11-20",
     "link": "http://bit.ly/4hRkBTr",
     "coordinators": [
       {
@@ -62,7 +59,7 @@
     ],
     "prizes": {
       "first_place": "Qualification for IIT Bombay",
-      "runner_up": "Participation Certificates"
+      "runner_up": "Qualification for IIT Bombay"
     }
   }
 ]

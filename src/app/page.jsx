@@ -34,7 +34,7 @@ export default function Home() {
         {/* <Testimonials /> */}
         {/* <Pricing /> */}
         <Competitions />
-        {/* <Technorian /> */}
+        <Technorian />
         <Faqs />
         <ContactUs />
         <Footer />
