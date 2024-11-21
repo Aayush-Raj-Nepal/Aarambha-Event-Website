@@ -1,8 +1,10 @@
 'use client'
 
+import { Timer } from './Timer'
+
 export function Hero() {
   return (
-    <div className="relative isolate overflow-hidden pt-14">
+    <div className="relative isolate overflow-hidden pt-14 z-0">
       {/* Background Image */}
       <img
         alt=""
@@ -44,6 +46,7 @@ export function Hero() {
             Aarambha 2024 <br />
             <span className="text-3xl text-indigo-600">22nd-23rd November</span>
           </h1>
+          <Timer />
           <p className="mt-6 text-lg leading-8 text-gray-300">
             Aarambha 2024 is a leading technical exhibition and competition
             hosted by the Advanced College of Engineering & Management. Join us

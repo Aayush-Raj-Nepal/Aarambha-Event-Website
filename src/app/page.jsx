@@ -9,7 +9,11 @@ import { ContactUs } from '@/components/ContactUs'
 import { MainEvents } from '@/components/MainEvents'
 import { Sponsors } from '@/components/Sponsors'
 import Competitions from '@/components/Competitions'
+import Technorian from '@/components/Technorian'
+
 // import { Testimonials } from '@/components/Testimonials'
+import { Popup } from '@/components/Popup'
+
 
 export default function Home() {
   return (
@@ -19,6 +23,7 @@ export default function Home() {
           Theme for Aarambha 2024 is out now! : Engineering 360: A holistic
           approach to innovation
         </div> */}
+        <Popup />
         <Header />
         <Hero />
         <Sponsors />
@@ -29,6 +34,7 @@ export default function Home() {
         {/* <Testimonials /> */}
         {/* <Pricing /> */}
         <Competitions />
+        {/* <Technorian /> */}
         <Faqs />
         <ContactUs />
         <Footer />

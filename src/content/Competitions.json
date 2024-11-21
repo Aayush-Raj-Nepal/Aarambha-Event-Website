@@ -58,114 +58,6 @@
     }
   },
   {
-    "title": "Circuit Architect",
-    "slug": "circuit-architect",
-    "subtitle": "Master the Art of Circuit Design",
-    "description": "Compete in this Challenge to demonstrate your skills in circuit design and engineering. Build efficient and functional circuits to impress the judges and win prizes.",
-    "date": "2024-11-22",
-    "time": "3:00 PM",
-    "venue": "Third Floor",
-    "imgUrl": "/images/Competitions/circuit.png",
-    "registration_deadline": "2024-11-18",
-    "link": "https://bit.ly/3Y8sX18",
-
-    "coordinators": [
-      {
-        "name": "Dipesh Khatri",
-        "contact": "9867970868"
-      },
-      {
-        "name": "Susan Adhikari",
-        "contact": "9845965387"
-      }
-    ],
-    "prizes": {
-      "first_place": "NPR 8,000",
-      "second_place": "NPR 4,000",
-      "emerging_innovator": "NPR 2,000"
-    }
-  },
-  {
-    "title": "Popsicle Bridge",
-    "slug": "popsicle-bridge",
-    "subtitle": "Design and Build a Strong Bridge",
-    "description": "Test your engineering skills in this competition by designing and building a bridge using only popsicle sticks. The strongest design will win exciting prizes!",
-    "date": "2024-11-22",
-    "time": "11:00 AM",
-    "link": "https://bit.ly/4dQbteF",
-    "venue": "Main Arena",
-    "imgUrl": "/images/Competitions/popsiclebridge.png",
-    "registration_deadline": "2024-11-18",
-    "coordinators": [
-      {
-        "name": "Pramis Khadka",
-        "contact": "9806647284"
-      },
-      {
-        "name": "Rajendra Dulal",
-        "contact": "9860652211"
-      }
-    ],
-    "prizes": {
-      "first_place": "NPR 10,000",
-      "second_place": "NPR 5,000"
-    }
-  },
-  {
-    "title": "Robo Sumo",
-    "slug": "robo-sumo",
-    "subtitle": "Battle of Autonomous Robots",
-    "description": "Join the excitement as autonomous robots face off in a thrilling sumo-style battle. Push your opponent out of the ring to claim victory!",
-    "date": "2024-11-23",
-    "time": "10:00 AM",
-    "venue": "Main Arena",
-    "link": "https://bit.ly/4gKD03L",
-
-    "imgUrl": "/images/Competitions/Sumo.png",
-    "registration_deadline": "2024-11-18",
-    "coordinators": [
-      {
-        "name": "Pujan Bhandari",
-        "contact": "9861915137"
-      },
-      {
-        "name": "Prabhu Shah Kanu",
-        "contact": "9861915137"
-      }
-    ],
-    "prizes": {
-      "first_place": "NPR 13,000",
-      "second_place": "NPR 9,000"
-    }
-  },
-  {
-    "title": "AutoCAD Challenge",
-    "slug": "autocad-challenge",
-    "subtitle": "Master the Art of CAD Design",
-    "description": "Test your AutoCAD skills in this challenge focused on design and precision. Showcase your ability to create detailed and accurate engineering drawings.",
-    "date": "2024-11-22",
-    "link": "https://bit.ly/4esUL63",
-
-    "time": "10:00 AM",
-    "venue": "Third Floor",
-    "imgUrl": "/images/Competitions/AutoCad Pro.png",
-    "registration_deadline": "2024-11-18",
-    "coordinators": [
-      {
-        "name": "Rubish Satyal",
-        "contact": "9765830023"
-      },
-      {
-        "name": "Gagan Simkhada",
-        "contact": "9864474064"
-      }
-    ],
-    "prizes": {
-      "first_place": "NPR 5,000",
-      "second_place": "NPR 25,00"
-    }
-  },
-  {
     "title": "Robo Pop",
     "slug": "robo-pop",
     "subtitle": "Battle of Robots",
@@ -221,6 +113,116 @@
       "third_place": "NPR 4,000"
     }
   },
+  {
+    "title": "Robo Sumo",
+    "slug": "robo-sumo",
+    "subtitle": "Battle of Autonomous Robots",
+    "description": "Join the excitement as autonomous robots face off in a thrilling sumo-style battle. Push your opponent out of the ring to claim victory!",
+    "date": "2024-11-23",
+    "time": "10:00 AM",
+    "venue": "Main Arena",
+    "link": "https://bit.ly/4gKD03L",
+
+    "imgUrl": "/images/Competitions/Sumo.png",
+    "registration_deadline": "2024-11-18",
+    "coordinators": [
+      {
+        "name": "Pujan Bhandari",
+        "contact": "9861915137"
+      },
+      {
+        "name": "Prabhu Shah Kanu",
+        "contact": "9861915137"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 13,000",
+      "second_place": "NPR 9,000"
+    }
+  },
+  {
+    "title": "Circuit Architect",
+    "slug": "circuit-architect",
+    "subtitle": "Master the Art of Circuit Design",
+    "description": "Compete in this Challenge to demonstrate your skills in circuit design and engineering. Build efficient and functional circuits to impress the judges and win prizes.",
+    "date": "2024-11-22",
+    "time": "3:00 PM",
+    "venue": "Third Floor",
+    "imgUrl": "/images/Competitions/circuit.png",
+    "registration_deadline": "2024-11-18",
+    "link": "https://bit.ly/3Y8sX18",
+
+    "coordinators": [
+      {
+        "name": "Dipesh Khatri",
+        "contact": "9867970868"
+      },
+      {
+        "name": "Susan Adhikari",
+        "contact": "9845965387"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 8,000",
+      "second_place": "NPR 4,000",
+      "emerging_innovator": "NPR 2,000"
+    }
+  },
+  {
+    "title": "Popsicle Bridge",
+    "slug": "popsicle-bridge",
+    "subtitle": "Design and Build a Strong Bridge",
+    "description": "Test your engineering skills in this competition by designing and building a bridge using only popsicle sticks. The strongest design will win exciting prizes!",
+    "date": "2024-11-22",
+    "time": "11:00 AM",
+    "link": "https://bit.ly/4dQbteF",
+    "venue": "Main Arena",
+    "imgUrl": "/images/Competitions/popsiclebridge.png",
+    "registration_deadline": "2024-11-18",
+    "coordinators": [
+      {
+        "name": "Pramis Khadka",
+        "contact": "9806647284"
+      },
+      {
+        "name": "Rajendra Dulal",
+        "contact": "9860652211"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 10,000",
+      "second_place": "NPR 5,000"
+    }
+  },
+
+  {
+    "title": "AutoCAD Challenge",
+    "slug": "autocad-challenge",
+    "subtitle": "Master the Art of CAD Design",
+    "description": "Test your AutoCAD skills in this challenge focused on design and precision. Showcase your ability to create detailed and accurate engineering drawings.",
+    "date": "2024-11-22",
+    "link": "https://bit.ly/4esUL63",
+
+    "time": "10:00 AM",
+    "venue": "Third Floor",
+    "imgUrl": "/images/Competitions/AutoCad Pro.png",
+    "registration_deadline": "2024-11-18",
+    "coordinators": [
+      {
+        "name": "Rubish Satyal",
+        "contact": "9765830023"
+      },
+      {
+        "name": "Gagan Simkhada",
+        "contact": "9864474064"
+      }
+    ],
+    "prizes": {
+      "first_place": "NPR 5,000",
+      "second_place": "NPR 25,00"
+    }
+  },
+
   {
     "title": "Shake Table",
     "slug": "shake-table",

@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Meshmerize",
+    "slug": "meshmerize",
+    "subtitle": "The Road to Innovation",
+    "description": "Excitement awaits at Meshmerize, where bots take on the road at Aarambha 2024! Witness thrilling matches among bots as they navigate through lines to reach the finish line. This zonal qualifier offers winners a golden opportunity to compete internationally at IIT Bombay!",
+    "date": "2024-11-22 - 2024-11-23",
+    "time": "9:00 AM",
+    "venue": "Advanced College of Engineering and Management, Kalanki",
+    "imgUrl": "/images/Technorian/meshmerize.jpg",
+    "registration_deadline": "2024-11-20",
+    "link": "http://bit.ly/4hRkBTr",
+    "coordinators": [
+      {
+        "name": "Govinda Bhandari",
+        "contact": "9869143227"
+      }
+    ],
+    "prizes": {
+      "first_place": "Qualification for IIT Bombay",
+      "runner_up": "Participation Certificates"
+    }
+  },
+  {
+    "title": "Code Code",
+    "slug": "code-code",
+    "subtitle": "Solve Real-Life Problems Through Coding",
+    "description": "Solve real-life issues through coding at Aarambha 2024! This zonal qualifier tests your ability to tackle real-world problems with programming. Winners will earn the chance to participate at Techfest IIT Bombay. Showcase your coding prowess and solve significant challenges efficiently!",
+    "date": "2024-11-22 - 2024-11-23",
+    "time": "9:00 AM",
+    "venue": "Advanced College of Engineering and Management, Kalanki",
+    "imgUrl": "/images/Technorian/codecode.jpg",
+    "registration_deadline": "2024-11-20",
+    "link": "http://bit.ly/4hRkBTr",
+    "coordinators": [
+      {
+        "name": "Chirayau Prasai",
+        "contact": "9745233699"
+      }
+    ],
+    "prizes": {
+      "first_place": "Qualification for IIT Bombay",
+      "runner_up": "Participation Certificates"
+    }
+  },
+  {
+    "title": "Techfest Olympiad",
+    "slug": "techfest-olympiad",
+    "subtitle": "Race to Innovate and Shine",
+    "description": "Unleash your brilliance at Techfest Olympiad at Aarambha 2024! This platform allows students to solve, innovate, and shine by tackling scientific and real-life problems. Winners of the zonal qualifier earn the chance to compete at Techfest IIT Bombay. Open to Standard 8th, 9th, and 10th students only.",
+    "date": "2024-11-22 - 2024-11-23",
+    "time": "9:00 AM",
+    "venue": "Advanced College of Engineering and Management, Kalanki",
+    "imgUrl": "/images/Technorian/techfestolympiad.jpg",
+    "registration_deadline": "2024-11-20",
+    "link": "http://bit.ly/4hRkBTr",
+    "coordinators": [
+      {
+        "name": "Arpan Poudel",
+        "contact": "9863777214"
+      }
+    ],
+    "prizes": {
+      "first_place": "Qualification for IIT Bombay",
+      "runner_up": "Participation Certificates"
+    }
+  }
+]

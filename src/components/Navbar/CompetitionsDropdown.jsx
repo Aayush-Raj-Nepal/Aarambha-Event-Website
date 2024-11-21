@@ -35,7 +35,7 @@ export function CompetitionsDropdown() {
   ]
 
   return (
-    <div className="relative">
+    <div className="relative ">
       <button
         onClick={handleDropdownToggle}
         className="text-sm text-gray-800 hover:text-blue-600 focus:outline-none md:px-4 md:pt-1"
